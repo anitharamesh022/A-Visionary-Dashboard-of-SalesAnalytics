@@ -1,4 +1,4 @@
-# 💰 A Visionary Dashboard of SalesAnalytics
+# 💰 A Visionary Dashboard of Sales Analytics
 
 ## Description:
 The sales dashboard provides an overview of business performance, including key metrics such as total revenue, orders, and products. Users can explore sales trends by year, month, and country. Additionally, a product analysis section highlights specific product performance and Trend Analysis.
