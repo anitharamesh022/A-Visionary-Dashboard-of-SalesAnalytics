@@ -34,7 +34,7 @@ Total Revenue = SUM('sales 2020-2023'[Amount])
 #### 📜Date Function
 1.WEEK NAME= "week" & WEEKNUM('Sales-2020'[Date].[Date])
 2.Week Number = WEEKNUM('Sales-2020'[Date].[Date])
-3.Quater = "Q" & FORMAT('Sales-2020'[Date].[Date], "Q")
+3.Quater = "Q" & FORMAT('Sales-2020'[Date].[Date], "Q"
 4.DAY = "DAY" & FORMAT('sales-202O'[Date].[Date],"D")
 
 ## 📊Visuals Included:
@@ -46,3 +46,12 @@ Total Revenue = SUM('sales 2020-2023'[Amount])
 
 ## ⛳Conclusion:
 This analysis provides valuable Sales insights Worldwide. Power Query and Power BI can draw powerful insights from raw datasets, Which will be more Valuable To Business Users.
+
+
+#### Sales Dashboard 2020-2023
+![Overview](https://github.com/anitharamesh022/A-Visionary-Dashboard-of-SalesAnalytics/assets/164473616/3ec6e324-2cea-4d13-af83-25e0e875f18b)
+![YTD](https://github.com/anitharamesh022/A-Visionary-Dashboard-of-SalesAnalytics/assets/164473616/534bb2a2-3e5b-4e73-88ef-6c588b66c5e6)
+![QTD](https://github.com/anitharamesh022/A-Visionary-Dashboard-of-SalesAnalytics/assets/164473616/41d52022-2d3d-4841-a020-1e6944a8eb10)
+![MTD](https://github.com/anitharamesh022/A-Visionary-Dashboard-of-SalesAnalytics/assets/164473616/54cf64ac-f4e7-478f-819f-c902636eee92)
+
+
